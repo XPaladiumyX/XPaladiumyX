@@ -4,7 +4,10 @@ I'm a passionate Minecraft developer specializing in plugins and mods. I run a M
 
 ## 💻 My Projects  
 **SkyXNetwork**  
-– A fully custom Minecraft server project, featuring unique gameplay mechanics, custom plugins, and a seamless experience for players.  
+– A fully custom Minecraft server project, featuring unique gameplay mechanics, custom plugins, and a seamless experience for players. 
+
+**SkyXComms/SkyTalk (Work in Progress)**  
+– A next-generation communication platform built *for gamers by gamers*, inspired by Discord but with more features, better performance, and a gamer-first UX. This is one of the final goals of the SkyXNetwork project. 
 
 **SkyXControl**  
 – A powerful plugin for Minecraft (1.7 - 1.21+) that allows server owners to create custom actions through a simple GUI. It includes zone protection, ranks management, conditional events, and much more!  
