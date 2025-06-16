@@ -12,9 +12,6 @@ I'm a passionate Minecraft developer specializing in plugins and mods. I run a M
 **SkyXControl**  
 – A powerful plugin for Minecraft (1.7 - 1.21+) that allows server owners to create custom actions through a simple GUI. It includes zone protection, ranks management, conditional events, and much more!  
 
-**HypixelZombieHelper**  
-– A Fabric mod improving the Hypixel Zombies mode with a customizable scoreboard and UI enhancements.  
-
 **PremiumAdvancements**  
 – A plugin that lets you create unlimited Minecraft advancements with full customization, including commands support and an easy-to-use GUI.  
 ## 🚀 Looking for Developers!    
