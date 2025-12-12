@@ -1,26 +1,94 @@
-# Hi there! 👋 I'm Yann  
-## 🛠 About Me  
-I'm a passionate Minecraft developer specializing in plugins and mods. I run a Minecraft server, Sky X Network, featuring custom game modes like Mining Tycoon and Modded Survival. I love coding in Java (with Maven) and creating Fabric mods to enhance the gameplay experience.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00A3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+I'm+Yann+👋;|+Minecraft+Developer+%7C+Plugin+Creator+%7C+Server+Owner;Sky+X+Network+Founder+🌌" alt="Typing Animation">
+</p>
 
-## 💻 My Projects  
-**SkyXNetwork**  
-– A fully custom Minecraft server project, featuring unique gameplay mechanics, custom plugins, and a seamless experience for players. 
+---
 
-**SkyXComms/SkyTalk (Work in Progress)**  
-– A next-generation communication platform built *for gamers by gamers*, inspired by Discord but with more features, better performance, and a gamer-first UX. This is one of the final goals of the SkyXNetwork project. 
+## 🧑‍💻 About Me  
+Hey! I'm **Yann**, a passionate **Minecraft developer** building advanced **plugins, mods, and full server infrastructures**.  
+I love crafting unique gameplay systems, optimizing performance, and pushing Minecraft far beyond its limits.
 
-**SkyXControl**  
-– A powerful plugin for Minecraft (1.7 - 1.21+) that allows server owners to create custom actions through a simple GUI. It includes zone protection, ranks management, conditional events, and much more!  
+🎯 **Main tech stack:**  
+- Java (Plugins, APIs, Fabric)  
+- Maven  
+- NMS / Packets  
+- Network infrastructure (Ubuntu servers)  
 
-**PremiumAdvancements**  
-– A plugin that lets you create unlimited Minecraft advancements with full customization, including commands support and an easy-to-use GUI.  
-## 🚀 Looking for Developers!    
-I'm actively looking for talented developers to join me in working on these exciting projects! If you're interested in Minecraft plugin/mod development and want to contribute to innovative game features, feel free to reach out!  
+🌐 **Founder of SkyXNetwork — an international Minecraft server**  
+Featuring **custom gameplay**, **Mining Tycoon**, **Modded Survival**, cross-platform Java/Bedrock support, and tons of exclusive content.
 
-## 📫 Contact  
-GitHub: [My Github](https://github.com/XPaladiumyX)  
+---
 
-Discord: xpaladiumyx  
+## 🚀 My Main Projects
 
-Minecraft Server: skyxnetwork.net  
-Let's build something amazing together! 🚀  
+### ⭐ **SkyXNetwork**
+A fully custom Minecraft server ecosystem with:  
+✔ Unique game mechanics  
+✔ Custom items, animations, events  
+✔ Full Bedrock + Java compatibility  
+✔ Anti-cheat, ranks, jobs, quests, crates, monthly resets  
+
+> Always growing — always being improved.  
+
+---
+
+### 💬 **SkyXComms / SkyTalk** *(Work in Progress)*  
+A next-gen communication desktop app inspired by Discord.  
+Built **for gamers**, focusing on:  
+✔ High performance  
+✔ Clean dark UI  
+✔ Real-time sync  
+✔ Advanced voice & chat features  
+
+---
+
+### 🛡 **SkyXControl**  
+A powerful all-in-one Minecraft plugin (1.7 → 1.21+).  
+Includes:  
+- Zone protections  
+- Ranks system  
+- Event conditions  
+- GUI actions creator  
+- Custom rules engine  
+- Admin tools  
+
+---
+
+### 🏆 **PremiumAdvancements**  
+Create **unlimited custom advancements** easily:  
+✔ Commands support  
+✔ GUI editor  
+✔ Fully customizable  
+✔ Perfect for RPG servers  
+
+---
+
+## 🤝 I'm Looking for Developers!  
+If you're experienced in:  
+- Java / Minecraft plugin dev  
+- Fabric / Mods  
+- UI/UX (for SkyTalk)  
+- Networking  
+
+…then **let’s build something big together**.  
+DM me — I answer fast.
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=XPaladiumyX&show_icons=true&theme=midnight-purple" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=XPaladiumyX&layout=compact&theme=midnight-purple" />
+</p>
+
+---
+
+## 🌐 Contact  
+🌀 **GitHub:** https://github.com/XPaladiumyX  
+💬 **Discord:** `xpaladiumyx4`  
+🎮 **Minecraft Server:** `skyxnetwork.net`
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=4EF9F9&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together!+🚀" alt="Typing Animation">
+</p>
