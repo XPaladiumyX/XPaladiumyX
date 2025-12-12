@@ -1,6 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00A3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+I'm+Yann+👋;|+Minecraft+Developer+%7C+Plugin+Creator+%7C+Server+Owner;Sky+X+Network+Founder+🌌" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=600&color=00A3FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+I'm+Yann+👋;Minecraft+Dev+%7C+Plugin+Creator+%7C+Server+Owner;Sky+X+Network+Founder+🌌" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft%20Developer-%2300A3FF.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Server%20Owner-%236f42c1.svg?&style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Coder-%23ff0055.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -9,76 +15,75 @@
 Hey! I'm **Yann**, a passionate **Minecraft developer** building advanced **plugins, mods, and full server infrastructures**.  
 I love crafting unique gameplay systems, optimizing performance, and pushing Minecraft far beyond its limits.
 
-🎯 **Main tech stack:**  
-- Java (Plugins, APIs, Fabric)  
+### 🎯 **Main tech stack**  
+- Java (Plugins, APIs, Fabric Mods)  
 - Maven  
 - NMS / Packets  
 - Network infrastructure (Ubuntu servers)  
 
-🌐 **Founder of SkyXNetwork — an international Minecraft server**  
-Featuring **custom gameplay**, **Mining Tycoon**, **Modded Survival**, cross-platform Java/Bedrock support, and tons of exclusive content.
+🌐 **Founder of SkyXNetwork, an international cross-platform Minecraft server**  
+Featuring **Mining Tycoon**, **Modded Survival**, custom items, events, enhancements and full Java/Bedrock support.
 
 ---
 
 ## 🚀 My Main Projects
 
 ### ⭐ **SkyXNetwork**
-A fully custom Minecraft server ecosystem with:  
-✔ Unique game mechanics  
+A fully custom Minecraft ecosystem with:  
+✔ Unique gameplay mechanics  
 ✔ Custom items, animations, events  
-✔ Full Bedrock + Java compatibility  
-✔ Anti-cheat, ranks, jobs, quests, crates, monthly resets  
+✔ Java + Bedrock compatibility  
+✔ Ranks, jobs, quests, crates, anti-cheat, resets  
 
-> Always growing — always being improved.  
+> Always growing, always being improved.
 
 ---
 
-### 💬 **SkyXComms / SkyTalk** *(Work in Progress)*  
-A next-gen communication desktop app inspired by Discord.  
-Built **for gamers**, focusing on:  
-✔ High performance  
-✔ Clean dark UI  
+### 💬 **SkyXComms / SkyTalk** *(WIP)*  
+A nextgen communication PC app for gamers.  
+Inspired by Discord but focusing on:  
+✔ Higher performance  
+✔ Smooth dark UI  
 ✔ Real-time sync  
-✔ Advanced voice & chat features  
+✔ Advanced voice + chat  
 
 ---
 
 ### 🛡 **SkyXControl**  
-A powerful all-in-one Minecraft plugin (1.7 → 1.21+).  
-Includes:  
+A powerful all in one plugin (MC 1.7 → 1.21+):  
 - Zone protections  
-- Ranks system  
+- Ranks & permissions  
 - Event conditions  
-- GUI actions creator  
-- Custom rules engine  
+- GUI editor  
+- Rules engine  
 - Admin tools  
 
 ---
 
 ### 🏆 **PremiumAdvancements**  
-Create **unlimited custom advancements** easily:  
+Create unlimited custom advancements using a clean GUI:  
 ✔ Commands support  
-✔ GUI editor  
-✔ Fully customizable  
+✔ Custom categories  
+✔ Full JSON control  
 ✔ Perfect for RPG servers  
 
 ---
 
 ## 🤝 I'm Looking for Developers!  
-If you're experienced in:  
-- Java / Minecraft plugin dev  
-- Fabric / Mods  
+If you're skilled in:  
+- Java / Spigot / Paper  
+- Fabric / Modding  
 - UI/UX (for SkyTalk)  
-- Networking  
+- Network architecture  
 
 …then **let’s build something big together**.  
-DM me — I answer fast.
+DM me! I reply quickly.
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=XPaladiumyX&show_icons=true&theme=midnight-purple" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=XPaladiumyX&show_icons=true&theme=midnight-purple" />  
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=XPaladiumyX&layout=compact&theme=midnight-purple" />
 </p>
 
@@ -90,5 +95,5 @@ DM me — I answer fast.
 🎮 **Minecraft Server:** `skyxnetwork.net`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=4EF9F9&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=5000&pause=1000&color=4EF9F9&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+together!+🚀" alt="Typing Animation">
 </p>
