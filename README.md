@@ -1,12 +1,15 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00aaff,100:8a2be2&text=XPaladiumyX&fontSize=55&fontColor=ffffff" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=600&color=00A3FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+I'm+Yann+👋;Minecraft+Dev+%7C+Plugin+Creator+%7C+Server+Owner;Sky+X+Network+Founder+🌌" alt="Typing Animation">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft%20Developer-%2300A3FF.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Server%20Owner-%236f42c1.svg?&style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Coder-%23ff0055.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Dev-00aaff?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Minecraft-Server%20Owner-9146FF?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img src="https://img.shields.io/badge/FullStack-Coder-F700FF?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
@@ -85,6 +88,9 @@ DM me! I reply quickly.
 <p align="center">
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=XPaladiumyX&show_icons=true&theme=midnight-purple" />  
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=XPaladiumyX&layout=compact&theme=midnight-purple" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
